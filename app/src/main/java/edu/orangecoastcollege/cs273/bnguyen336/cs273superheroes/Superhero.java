@@ -1,10 +1,10 @@
-package edu.orangecoastcollege.cs273.vnguyen629.cs273superheroes2;
+package edu.orangecoastcollege.cs273.bnguyen336.cs273superheroes;
 
 /**
  * The Superhero class is a place holder for data corresponding to CS273 Superheroes
  * including their user names, names, super powers, one thing, and corresponding image.
  *
- * @author Vincent Nguyen
+ * @author Benjamin Nguyen
  */
 public class Superhero {
     private String mUserName;

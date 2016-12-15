@@ -1,4 +1,4 @@
-package edu.orangecoastcollege.cs273.vnguyen629.cs273superheroes2;
+package edu.orangecoastcollege.cs273.bnguyen336.cs273superheroes;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;

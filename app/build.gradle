@@ -4,7 +4,7 @@ android {
     compileSdkVersion 24
     buildToolsVersion "24.0.2"
     defaultConfig {
-        applicationId "edu.orangecoastcollege.cs273.vnguyen629.cs273superheroes2"
+        applicationId "edu.orangecoastcollege.cs273.bnguyen336.cs273superheroes2"
         minSdkVersion 23
         targetSdkVersion 24
         versionCode 1

@@ -1,4 +1,4 @@
-package edu.orangecoastcollege.cs273.vnguyen629.cs273superheroes2;
+package edu.orangecoastcollege.cs273.bnguyen336.cs273superheroes;
 
 import android.content.Context;
 import android.content.Intent;
@@ -24,7 +24,7 @@ import java.util.Set;
  * whether ot not the quiz settings/type is changed and adjusts
  * appropriately.
  *
- * @author Vincent Nguyen
+ * @author Benjamin Nguyen
  */
 public class QuizActivity extends AppCompatActivity {
 
